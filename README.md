@@ -26,17 +26,17 @@ python main.py
 ## 📸 Screenshots
 
 ### 🔹 Main Interface
-![Main UI](Screenshots1/HomeScreen.png)
+![Main UI](dist/Screenshots1/HomeScreen.png)
 
 ### 🔹 Encryption Process
-![Key Generation](Screenshots1/KeyGenerated.png)
-![File Selection](Screenshots1/FileSelection.png)
-![File Encryption](Screenshots1/FileEncryption.png)
-![After Encryption](Screenshots1/AfterEncryption.png)
+![Key Generation](dist/Screenshots1/KeyGenerated.png)
+![File Selection](dist/Screenshots1/FileSelection.png)
+![File Encryption](dist/Screenshots1/FileEncryption.png)
+![After Encryption](dist/Screenshots1/AfterEncryption.png)
 
 ### 🔹 Decryption Output
-![Decrypt](Screenshots1/Decrypt.png)
-![Decrypted](Screenshots1/Decrypted.png)
+![Decrypt](dist/Screenshots1/Decrypt.png)
+![Decrypted](dist/Screenshots1/Decrypted.png)
 
 ## 📁 Project Structure
 file-encryption-tool/
