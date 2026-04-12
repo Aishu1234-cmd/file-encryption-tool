@@ -26,7 +26,7 @@ python main.py
 ## 📸 Screenshots
 
 ### 🔹 Main Interface
-![Main UI](Screenshots1/MainUI.png)
+![Main UI](Screenshots1/HomeScreen.png)
 
 ### 🔹 Encryption Process
 ![Key Generation](Screenshots1/KeyGenerated.png)
