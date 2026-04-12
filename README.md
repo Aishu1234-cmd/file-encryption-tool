@@ -24,19 +24,19 @@ Run the following command:
 python main.py
 
 ## 📸 Screenshots
+
 ### 🔹 Main Interface
-![Main UI](screenshots/HomeScreen.png)
+![Main UI](Screenshots1/MainUI.png)
 
 ### 🔹 Encryption Process
-![Key generation](Screenshots/KeyGenerated.png)
-![file selection](Screenshots/Fileselectionforencryption.png)
-![file encryption](Screenshots/FileEncrypted.png)
-![After encryption](Screenshots/AfterEncryption1.png)
-![After encryption](Screenshots/AfterEncryption2.png)
+![Key Generation](Screenshots1/KeyGenerated.png)
+![File Selection](Screenshots1/FileSelection.png)
+![File Encryption](Screenshots1/FileEncryption.png)
+![After Encryption](Screenshots1/AfterEncryption.png)
 
 ### 🔹 Decryption Output
-![Decrypt](screenshots/FileDecrypted.png)
-![Decrypted](screenshots/Afterdecryption.png)
+![Decrypt](Screenshots1/Decrypt.png)
+![Decrypted](Screenshots1/Decrypted.png)
 
 ## 📁 Project Structure
 file-encryption-tool/
