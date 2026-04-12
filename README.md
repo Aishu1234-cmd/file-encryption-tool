@@ -28,11 +28,11 @@ python main.py
 ![Main UI](screenshots/HomeScreen.png)
 
 ### 🔹 Encryption Process
-![Key generation](screenshots/KeyGenerated.png)
-![file selection](screenshots/Fileselectionforencryption.png)
-![file encryption](screenshots/FileEncrypted.png)
-![After encryption](screenshots/AfterEncryption1.png)
-![After encryption](screenshots/AfterEncryption2.png)
+![Key generation](Screenshots/KeyGenerated.png)
+![file selection](Screenshots/Fileselectionforencryption.png)
+![file encryption](Screenshots/FileEncrypted.png)
+![After encryption](Screenshots/AfterEncryption1.png)
+![After encryption](Screenshots/AfterEncryption2.png)
 
 ### 🔹 Decryption Output
 ![Decrypt](screenshots/FileDecrypted.png)
